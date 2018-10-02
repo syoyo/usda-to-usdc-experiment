@@ -12,7 +12,7 @@ USD build with python module simply failed on Ubuntu 16.04, thus use C++ API for
 Build USD with minimal dependency(boost and TBB only)
 `build_usd.py` automatically downloads boost and TBB.
 
-First run(boost build) fails but apparently build itself are ok. Thus run build script twice.
+First run(boost build) fails but apparently build itself went well. Thus run build script twice.
 
 In USD repo,
 
